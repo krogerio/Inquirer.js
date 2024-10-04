@@ -1,5 +1,6 @@
 {
   "name": "@inquirer/root",
+  "version": "11.1.0",
   "private": true,
   "keywords": [
     "answer",
